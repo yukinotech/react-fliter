@@ -1,4 +1,4 @@
-# 手动配置webpack4.X
+# react-fliter
 
 ```sh
 $ npm install 
@@ -6,5 +6,5 @@ $ npm install
 ```sh
 $ npm run dev
 ```
-## 整合react,babel
+## 使用webpack整合react,babel,写一些react-demo组件
 ## 慢慢配置成一个大项目,作为学习参考
